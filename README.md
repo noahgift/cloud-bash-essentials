@@ -4,6 +4,7 @@ Essentials for using Bash in the Cloud
 Configure AWS Shells
 
 * Launch a shell with CloudShell
+* Configure AWS Cloud9
 
 Common Shell Commands:
 

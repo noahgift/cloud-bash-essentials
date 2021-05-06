@@ -29,4 +29,4 @@ Writing a simple Bash script
 Creating a Python Virtual Environment
 Configure Google Cloud Shell
 Configure Azure Cloud Shell
-Configure oh-my-zsh locally
+Configure oh-my-zsh locally (Use Github Codespaces)

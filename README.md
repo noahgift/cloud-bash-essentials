@@ -30,3 +30,7 @@ Creating a Python Virtual Environment
 Configure Google Cloud Shell
 Configure Azure Cloud Shell
 Configure oh-my-zsh locally (Use Github Codespaces)
+
+## Linux basics
+
+Watch Bash Essentials for Cloud Computing:  https://www.youtube.com/watch?v=5_Oqp7ksChU
